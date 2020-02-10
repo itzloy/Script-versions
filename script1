@@ -1,1 +1,2 @@
 open("www.google.com")
+waitForNoRequest("3000")
