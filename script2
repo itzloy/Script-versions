@@ -1,2 +1,3 @@
 open("yahoo.com")
 waitForNoRequest("3000")
+setStepName("1. Homepage")
