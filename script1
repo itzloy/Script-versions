@@ -7,3 +7,8 @@ setStepName("1. Step 1")
 open("www.google.com")
 waitForNoRequest("3000")
 setStepName("2. Step 2")
+
+// Step - 3 
+clickAndWait("//*[@id='btn']")
+waitForNoRequest("3000")
+setStepName("2. Step 2")
