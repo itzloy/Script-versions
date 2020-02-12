@@ -11,4 +11,9 @@ setStepName("2. Step 2")
 // Step - 3 
 clickAndWait("//*[@id='btn']")
 waitForNoRequest("3000")
-setStepName("2. Step 2")
+setStepName("3. Step 3")
+
+// Step - 4 
+clickAndWait("//*[@id='btn']")
+waitForNoRequest("3000")
+setStepName("4. Step 4")
