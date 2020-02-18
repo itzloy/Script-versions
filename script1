@@ -7,13 +7,3 @@ setStepName("1. Step 1")
 open("www.google.com")
 waitForNoRequest("3000")
 setStepName("2. Step 2")
-
-// Step - 1
-open("www.google.com")
-waitForNoRequest("3000")
-setStepName("1. Step 1")
-
-// Step - 2
-open("www.google.com")
-waitForNoRequest("3000")
-setStepName("2. Step 2")
